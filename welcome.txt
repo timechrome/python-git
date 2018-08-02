@@ -1,2 +1,2 @@
-alert("Welcome")
-alert("How are you?")
+alert("Welcome");
+alert("How are you?");

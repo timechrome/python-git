@@ -1,3 +1,2 @@
-alert("hello world")
-alert("What are you doing?")
-прь
+alert("hello world");
+alert("What are you doing?");

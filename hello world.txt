@@ -2,3 +2,4 @@ alert("hello world")
 alert("What are you doing?")
 прь
 alert("Hello, my dear friend!")
+alert("Glad to see you")
